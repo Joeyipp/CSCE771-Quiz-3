@@ -1,0 +1,214 @@
+{
+  "1": {
+    "sentence": "https://www.nytimess.com/article/2020-nobel-prize-winners.html",
+    "entities": {}
+  },
+  "2": {
+    "sentence": "2020 Nobel Prize Winners: Full List",
+    "entities": {}
+  },
+  "3": {
+    "sentence": "Nobel Prize season begins every October as committees in Sweden and Norway name laureates in a variety of prizes in the sciences, literature and economics, as well as peace work. The announcements started last week with the awarding of the prize in Physiology or Medicine. They wrapped up on Monday, when the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel was announced.",
+    "entities": {
+      "prize_categories": [
+        "sciences",
+        "literature",
+        "economics",
+        "peace work",
+        "Physiology or Medicine",
+        "Economic Sciences"
+      ],
+      "winners": ["Alfred Nobel"],
+      "events": {
+        "labels": [
+          "Nobel Prize season begins every October",
+          "committees in Sweden and Norway name laureates in a variety",
+          "announcements started last week with the awarding of the prize",
+          "They wrapped up on Monday",
+          "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel was announced"
+        ],
+        "spaces": ["Sweden", "Norway"],
+        "times": ["October", "last week", "Monday"]
+      }
+    }
+  },
+  "4": {
+    "sentence": "The Nobel Prizes most years are presented to recipients in Stockholm and Oslo in December. Because of the coronavirus pandemic, the committees are changing their approaches. Some of the events in Stockholm will be canceled in favor of a digital ceremony for the Nobelists, and medals and diplomas are to be distributed to the recipients? embassies and handed over in their home countries. Recipients may be invited to the award ceremony for 2021, if possible.",
+    "entities": {
+      "prize_categories": [],
+      "winners": [],
+      "events": {
+        "labels": [
+          "The Nobel Prizes most years are presented to recipients",
+          "Some of the events in Stockholm will be canceled in favor",
+          "medals and diplomas are to be distributed to the recipients",
+          "Recipients may be invited to the award"
+        ],
+        "spaces": ["Stockholm", "Oslo"],
+        "times": ["December", "2021"]
+      }
+    }
+  },
+  "5": {
+    "sentence": "The Oslo ceremony for the peace prize will be smaller than in most years, with a limited audience.",
+    "entities": {}
+  },
+  "6": {
+    "sentence": "The Nobel committee also announced another change last month: Each prize will rise to 10 million Swedish krona, 1 million more than in the previous year. That?s a hike in the prize value of about $112,000 in current exchange rates.",
+    "entities": {
+      "prize_categories": [],
+      "winners": [],
+      "events": {
+        "labels": [
+          "The Nobel committee also announced another change",
+          "Each prize will rise to 10 million Swedish krona"
+        ],
+        "spaces": [],
+        "times": ["last month"]
+      }
+    }
+  },
+  "7": {
+    "sentence": "The 2020 Winners",
+    "entities": {}
+  },
+  "8": {
+    "sentence": "Physiology or Medicine",
+    "entities": {
+      "prize_categories": ["Physiology", "Medicine"],
+      "winners": [],
+      "events": {}
+    }
+  },
+  "9": {
+    "sentence": "Drs. Harvey J. Alter, Michael Houghton and Charles M. Rice on Monday received the prize for their discovery of the hepatitis C virus. The Nobel committee said the three scientists had ?made possible blood tests and new medicines that have saved millions of lives.?",
+    "entities": {
+      "prize_categories": [],
+      "winners": ["Harvey J. Alter", "Michael Houghton", "Charles M. Rice"],
+      "events": {
+        "labels": [
+          "Drs. Harvey J. Alter, Michael Houghton and Charles M. Rice on Monday received the prize",
+          "discovery of the hepatitis C virus",
+          "tests and new medicines that have saved millions"
+        ],
+        "spaces": [],
+        "times": ["Monday"]
+      }
+    }
+  },
+  "10": {
+    "sentence": "Physics",
+    "entities": {
+      "prize_categories": ["Physics"],
+      "winners": [],
+      "events": {}
+    }
+  },
+  "11": {
+    "sentence": "Roger Penrose, Reinhard Genzel and Andrea Ghez are the recipients of the Nobel Prize in Physics for 2020.Credit...Pool photo by Fredrik Sandberg",
+    "entities": {
+      "prize_categories": ["Physics"],
+      "winners": ["Roger Penrose", "Reinhard Genzel", "Andrea Ghez"],
+      "events": {
+        "labels": ["Roger Penrose, Reinhard Genzel and Andrea Ghez are the recipients"],
+        "spaces": [],
+        "times": ["2020"]
+      }
+    }
+  },
+  "12": {
+    "sentence": "Roger Penrose, Reinhard Genzel and Andrea Ghez received the prize on Tuesday for their discoveries that have improved understanding of the universe, including work on black holes.",
+    "entities": {
+      "prize_categories": [],
+      "winners": ["Roger Penrose", "Reinhard Genzel", "Andrea Ghez"],
+      "events": {
+        "labels": [
+          "Roger Penrose, Reinhard Genzel and Andrea Ghez received the prize",
+          "discoveries that have improved understanding"
+        ],
+        "spaces": [],
+        "times": ["Tuesday"]
+      }
+    }
+  },
+  "13": {
+    "sentence": "Chemistry",
+    "entities": {
+      "prize_categories": ["Chemistry"],
+      "winners": [],
+      "events": {}
+    }
+  },
+  "14": {
+    "sentence": "The Nobel Prize in Chemistry was jointly awarded on Wednesday to Emmanuelle Charpentier and Jennifer A. Doudna for their work on the development of Crispr-Cas9, a method for genome editing.",
+    "entities": {
+      "prize_categories": ["Chemistry"],
+      "winners": ["Emmanuelle Charpentier", "Jennifer A. Doudna"],
+      "events": {
+        "labels": ["The Nobel Prize in Chemistry was jointly awarded on Wednesday"],
+        "spaces": [],
+        "times": ["Wednesday"]
+      }
+    }
+  },
+  "15": {
+    "sentence": "Literature",
+    "entities": {
+      "prize_categories": ["Literature"],
+      "winners": [],
+      "events": {}
+    }
+  },
+  "16": {
+    "sentence": "The Nobel Prize in Literature was awarded on Thursday to Louise Gluck, one of America?s most celebrated poets, ?for her unmistakable poetic voice that with austere beauty makes individual existence universal.?",
+    "entities": {
+      "prize_categories": ["Literature"],
+      "winners": ["Louise Gluck"],
+      "events": {
+        "labels": ["The Nobel Prize in Literature was awarded on Thursday"],
+        "spaces": [],
+        "times": ["Thursday"]
+      }
+    }
+  },
+  "17": {
+    "sentence": "Peace Prize",
+    "entities": {
+      "prize_categories": ["Peace"],
+      "winners": [],
+      "events": {}
+    }
+  },
+  "18": {
+    "sentence": "The Nobel Peace Prize was awarded on Friday to the World Food Program for its efforts to combat a surge in global hunger amid the coronavirus pandemic, which has swept around the world with devastating impact.",
+    "entities": {
+      "prize_categories": ["Peace"],
+      "winners": ["World Food Program"],
+      "events": {
+        "labels": ["The Nobel Peace Prize was awarded on Friday"],
+        "spaces": [],
+        "times": ["Friday"]
+      }
+    }
+  },
+  "19": {
+    "sentence": "Economic Science",
+    "entities": {
+      "prize_categories": ["Economic Science"],
+      "winners": [],
+      "events": {}
+    }
+  },
+  "20": {
+    "sentence": "Paul R. Milgrom and Robert B. Wilson were awarded the Nobel in economic science on Monday for improvements to auction theory and inventions of new auction formats.",
+    "entities": {
+      "prize_categories": ["economic science"],
+      "winners": ["Paul R. Milgrom", "Robert B. Wilson"],
+      "events": {
+        "labels": ["Paul R. Milgrom and Robert B. Wilson were awarded the Nobel"],
+        "spaces": [],
+        "times": ["Monday"]
+      }
+    }
+  }
+}
